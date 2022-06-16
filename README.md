@@ -5,9 +5,9 @@
 -->
 # 💫About Me :
 🔭 I’m currently working on <a href="https://github.com/MicheleVigano/MovieApp"> <img src="https://img.shields.io/badge/-MovieApp-important"></a> </br>
-🤝 I’m looking to collaborate on <a href="https://github.com/MicheleVigano/MovieApp"> <img src="https://img.shields.io/badge/-my1pyGame-blue"></a> </br>
+🤝 I’m looking to collaborate on <a href="https://github.com/MicheleVigano/my1pyGame"> <img src="https://img.shields.io/badge/-my1pyGame-blue"></a> </br>
  🌱 I’m currently learning <a href="https://github.com/MicheleVigano/MovieApp"> <img src="https://img.shields.io/badge/-JS-yellow"></a> </br>
-💬 Ask me about my <a href="https://github.com/MicheleVigano/MovieApp"> <img src="https://img.shields.io/badge/-monopattino-green"></a> </br>
+💬 Ask me about my <a href="https://github.com/MicheleVigano/monopattino"> <img src="https://img.shields.io/badge/-monopattino-green"></a> </br>
 ⚡ Fun fact i love country music 
 
 ## 🌐Socials
