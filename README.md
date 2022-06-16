@@ -1,14 +1,14 @@
-### Hi there 👋
+
 
 <!--
 **MicheleVigano/MicheleVigano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 💫About Me :
-🔭 I’m currently working on /MovieApp
-🤝 I’m looking to collaborate on /my1pyGame
- 🌱 I’m currently learning JS
-💬 Ask me about my /monopattino
-⚡ Fun fact i love lasagna
+🔭 I’m currently working on /MovieApp </br>
+🤝 I’m looking to collaborate on /my1pyGame </br>
+ 🌱 I’m currently learning JS </br>
+💬 Ask me about my /monopattino </br>
+⚡ Fun fact i love country music 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/MicheleVigano) 
@@ -18,13 +18,6 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=MicheleVigano&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MicheleVigano&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleVigano&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MicheleVigano&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MicheleVigano&icon=0&color=0)](https://visitcount.itsvg.in)
