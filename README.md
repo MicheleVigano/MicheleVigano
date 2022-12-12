@@ -6,7 +6,7 @@
 # 💫About Me :
 🔭 I’m currently working at <a href="https://gellify.com"> <img src="https://img.shields.io/badge/-GELLIFY-important"></a> </br>
 🤝 I’m looking to collaborate on <a href="https://github.com/MicheleVigano/my1pyGame"> <img src="https://img.shields.io/badge/-my1pyGame-blue"></a> </br>
- 🌱 I’m currently learning <a href="https://github.com/MicheleVigano/MovieApp"> <img src="https://img.shields.io/badge/-JS-yellow"></a> </br>
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React.js-yellow"> </br>
 💬 Ask me about my <a href="https://github.com/MicheleVigano/monopattino"> <img src="https://img.shields.io/badge/-monopattino-green"></a> </br>
 ⚡ Fun fact i love country music 
 
