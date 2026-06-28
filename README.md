@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://mikevigano.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fme_light.00c60dd3.jpeg&w=1920&q=75" width="100" alt="mikevigano.com logo">
+  <img src="https://mikevigano.com/favicon.ico" width="100" alt="mikevigano.com logo">
   <h1>Michele Viganò | Software Developer</h1>
 </div>
 
